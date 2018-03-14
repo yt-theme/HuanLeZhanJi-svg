@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="150"
+   height="150"
+   viewBox="0 0 150 150"
+   sodipodi:docname="rockbg.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4142">
+      <stop
+         style="stop-color:#afbfc5;stop-opacity:1;"
+         offset="0"
+         id="stop4144" />
+      <stop
+         style="stop-color:#afbfc5;stop-opacity:0;"
+         offset="1"
+         id="stop4146" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4142"
+       id="radialGradient4154"
+       cx="75.635597"
+       cy="75"
+       fx="75.635597"
+       fy="75"
+       r="75.674583"
+       gradientTransform="matrix(1,0,0,1.008399,0,-0.62992381)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1159"
+     inkscape:window-height="705"
+     id="namedview4"
+     showgrid="true"
+     inkscape:zoom="1.5733333"
+     inkscape:cx="-8.8983051"
+     inkscape:cy="81.673729"
+     inkscape:window-x="50"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4138"
+       empspacing="1" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:url(#radialGradient4154);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:28.3526001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.45784356"
+     id="rect4140"
+     width="122.99656"
+     height="124.26774"
+     x="14.137316"
+     y="12.86613"
+     ry="62.133869" />
+</svg>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="177"
+   height="59"
+   viewBox="0 0 177 59"
+   sodipodi:docname="start.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4142">
+      <stop
+         style="stop-color:#108f07;stop-opacity:1;"
+         offset="0"
+         id="stop4144" />
+      <stop
+         style="stop-color:#108f07;stop-opacity:0;"
+         offset="1"
+         id="stop4146" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4142"
+       id="linearGradient4152"
+       x1="-0.72142839"
+       y1="29.632143"
+       x2="483.89108"
+       y2="32.476788"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1167"
+     inkscape:window-height="637"
+     id="namedview4"
+     showgrid="true"
+     inkscape:zoom="3.1638418"
+     inkscape:cx="71.797679"
+     inkscape:cy="29.06875"
+     inkscape:window-x="111"
+     inkscape:window-y="83"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4138"
+       empspacing="1" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:url(#linearGradient4152);fill-opacity:1;fill-rule:evenodd;stroke:#c7fec7;stroke-width:6.08193159;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4140"
+     width="171.94128"
+     height="53.464497"
+     x="2.3195374"
+     y="2.8998945"
+     ry="8.9107494" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:28.31884003px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#eef7ed;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="32.034893"
+     y="40.101906"
+     id="text4154"
+     sodipodi:linespacing="125%"
+     transform="scale(1.016999,0.98328515)"><tspan
+       sodipodi:role="line"
+       id="tspan4156"
+       x="32.034893"
+       y="40.101906"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'文泉驿等宽微米黑';-inkscape-font-specification:'文泉驿等宽微米黑';fill:#eef7ed;fill-opacity:1">开始游戏</tspan></text>
+</svg>
